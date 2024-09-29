@@ -1,0 +1,22 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    background-color: #374E60;
+    padding: 10px;
+}
+
+.grid-item{
+    background-color: rgb(102 103 144 / 80%);
+    border: 1px solid rgba(238, 242, 245, 0.7);
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+}
+
+.head{
+    background-color: #ecc844;
+    font-size: 21px;
+    font-family: sans-serif;
+}
